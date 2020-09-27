@@ -1,4 +1,4 @@
-# Resort-Website
+# Travel agency-Website
 #### Description
 Styling a Resort Website using styles.css
 #### By sheillan.njoroge
