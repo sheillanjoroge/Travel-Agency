@@ -1,13 +1,18 @@
 body{
     background-image: url(https://muthaigatravel.com/wp-content/uploads/2019/09/masai-mara-flying-package-by-muthaiga-travel-11-1.jpg); 
     background-repeat: repeat;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 h1{
     font-style: italic;
     color:  rgb(207, 218, 214);
     text-align: center;
+
+}
+
+h2{
+    color:  rgb(207, 218, 214); 
 }
 nav{
     background-color: rgb(207, 218, 214);
